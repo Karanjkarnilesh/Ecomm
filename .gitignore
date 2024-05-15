@@ -1,4 +1,14 @@
 
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
 # Created by https://www.toptal.com/developers/gitignore/api/symfony
 # Edit at https://www.toptal.com/developers/gitignore?templates=symfony
 
